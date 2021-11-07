@@ -30,6 +30,7 @@ public class ValidMailRu {
         logOut();
         checkLogOut();
         webDriver.quit();
+        //check-и написал для себя)
     }
 
     public static void setUp() {

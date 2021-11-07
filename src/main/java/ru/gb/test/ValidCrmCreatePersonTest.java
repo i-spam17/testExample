@@ -26,8 +26,8 @@ public class ValidCrmCreatePersonTest {
         textIsValid();
         Thread.sleep(5000);
         logOut();
-
         webDriver.quit();
+        //check-и написал для себя)
     }
 
     public static void setUp() {
